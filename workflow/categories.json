@@ -1,0 +1,53 @@
+{
+    "capability": {
+        "categorize" : {},
+        "generate" : {},
+        "insight" : {},
+        "enrich" : {},
+        "clean" : {},
+
+        "integration" : {},
+        "export" : {}
+    },
+    "data_type": {
+        "text": {},
+        "audio": {},
+        "image": {},
+        "video": {},
+        "other": {}
+    },
+    "industry": {
+        "general" : {},
+
+        "gaming,-media-&-entertainment" : {},
+        "retail-&-ecommerce" : {},
+        "financial-services" : {},
+        "technology" : {},
+        "manufacturing": {},
+        "healthcare": {},
+
+        "customer-experience": {},
+        "market-research": {},
+        "product-&-user-research": {},
+        "data-analytics" : {},
+        "marketing": {},
+        "sales" : {},
+        "finance" : {},
+        "design" : {},
+        "hr": {}
+    },
+    "use_case": {
+        "survey-analysis" : {},
+        "user-review-analysis" : {},
+        "user-interview-analysis" : {},
+        "conversation-analysis" : {},
+        "help-desk" : {},
+        "social-media-listening" : {},
+        "seo" : {}
+    },
+    "tags" : {
+        "clustering" : {},
+        "tagging" : {},
+        "embedding" : {}
+    }
+}
