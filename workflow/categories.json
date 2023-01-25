@@ -1,23 +1,23 @@
 {
     "functionality": {
         "categorize": {
-            "name": "Categorize",
+            "name": "Categorize your data",
             "description": "Access a library full of workflows to help you categorize all kinds of data such as text, image and audio. So you can save time labelling and focus on the analysis that matters most to you."
         },
         "generate": {
-            "name": "Generate",
+            "name": "Generative AI",
             "description": "Generate all kinds of new content off your data, from blogs, images, faqs to customer responses."
         },
         "insight": {
-            "name": "Insight",
+            "name": "Extract insights",
             "description": "Expertly curated workflows that will automatically analyze and generate insightful charts, reports or dashboards on your data."
         },
         "enrich": {
-            "name": "Enrich",
+            "name": "Enrich your data",
             "description": "Access a library full of workflows to enrich your data with all sorts of information such as sentiment, emotions, and more. Helping you find more insights out of your data."
         },
         "clean": {
-            "name": "Cleaning",
+            "name": "Cleaning your data",
             "description": "Save time manually defining rules to clean up data with workflows such as anonymization, html removal and more."
         },
         "integration": {
