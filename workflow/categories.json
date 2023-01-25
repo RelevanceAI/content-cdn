@@ -2,12 +2,11 @@
     "functionality": {
         "categorize" : {
             "name" : "Categorize Workflows",
-            "description" : "Access a library full of workflows to help you categorize all kinds of data such as text, image and audio. So you can save time labelling and focus on the analysis that matters most to you.",
+            "description" : "Access a library full of workflows to help you categorize all kinds of data such as text, image and audio. So you can save time labelling and focus on the analysis that matters most to you."
         },
         "generate" : {
             "name" : "Generate Workflows",
             "description" : "Generate all kinds of new content off your data, from blogs, images, faqs to customer responses."
-
         },
         "insight" : {
             "name" : "Insight Workflows",
@@ -21,7 +20,6 @@
             "name" : "Cleaning Workflows",
             "description" : "Save time manually defining rules to clean up data with workflows such as anonymization, html removal and more."
         },
-
         "integration" : {
             "name" : "Integrations",
             "description" : "Import data from all kinds of different places such as social media, app store, conversations and more."
