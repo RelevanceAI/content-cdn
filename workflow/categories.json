@@ -17,7 +17,7 @@
             "description": "Access a library full of workflows to enrich your data with all sorts of information such as sentiment, emotions, and more. Helping you find more insights out of your data."
         },
         "clean": {
-            "name": "Cleaning your data",
+            "name": "Clean your data",
             "description": "Save time manually defining rules to clean up data with workflows such as anonymization, html removal and more."
         },
         "integration": {
