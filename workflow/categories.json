@@ -1,5 +1,5 @@
 {
-    "capability": {
+    "functionality": {
         "categorize" : {
             "name" : "Categorize Workflows",
             "description" : "Access a library full of workflows to help you categorize all kinds of data such as text, image and audio. So you can save time labelling and focus on the analysis that matters most to you.",
