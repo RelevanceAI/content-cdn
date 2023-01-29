@@ -92,11 +92,11 @@
         },
         "product-development": {
             "name": "Product Development",
-            "description": "Workflows that are applicable to the product teams."
+            "description": "Workflows that are applicable to the developers and product teams."
         },
-        "data-analytics": {
-            "name": "Data Analytics",
-            "description": "Workflows that are applicable to the data analytics teams."
+        "data": {
+            "name": "Data",
+            "description": "Workflows that are applicable to the data and machine learning teams."
         },
         "marketing": {
             "name": "Marketing",
@@ -120,33 +120,45 @@
         }
     },
     "use_case": {
-        "survey-analysis": {
-            "name": "Survey Analysis",
+        "survey": {
+            "name": "Survey",
             "description": "Workflows that help you analyze survey data."
         },
-        "user-review-analysis": {
-            "name": "User Review Analysis",
-            "description": "Workflows that help you analyze user reviews."
+        "feedback": {
+            "name": "Feedback",
+            "description": "Workflows that help you analyze user feedback."
         },
-        "user-interview-analysis": {
-            "name": "User Interview Analysis",
+        "interview": {
+            "name": "Interview",
             "description": "Workflows that help you analyze user interview and focus groups calls."
         },
-        "conversation-analysis": {
-            "name": "Conversation Analysis",
+        "conversation": {
+            "name": "Conversation",
             "description": "Workflows that help you analyze conversations, such as customer service or sales calls."
         },
         "help-desk": {
             "name": "Help Desk",
             "description": "Workflows that help you analyze help desk tickets or search through tickets better."
         },
-        "social-media-listening": {
-            "name": "Social Media Listening",
+        "social-media": {
+            "name": "Social Media",
             "description": "Workflows that help you analyze social media data."
+        },
+        "product-data": {
+            "name": "Product Data",
+            "description": "Workflows that help you analyze product data."
         },
         "seo": {
             "name": "SEO",
             "description": "Workflows that help you improve SEO."
+        },
+        "machine-learning": {
+            "name": "Machine Learning",
+            "description": "Workflows that help you improve machine learning models."
+        },
+        "unstructured-data": {
+            "name": "Unstructured Data",
+            "description": "Workflows that help you extract and structure data from unstructured data."
         }
     },
     "tags": {
@@ -160,7 +172,7 @@
         },
         "embedding": {
             "name": "Embedding",
-            "description": "Workflows related to embedding."
+            "description": "Workflows related to vector embedding."
         }
     }
 }
