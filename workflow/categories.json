@@ -120,17 +120,47 @@
         }
     },
     "use_case": {
-        "survey-analysis": {},
-        "user-review-analysis": {},
-        "user-interview-analysis": {},
-        "conversation-analysis": {},
-        "help-desk-search": {},
-        "social-media-listening": {},
-        "seo": {}
+        "survey-analysis": {
+            "name": "Survey Analysis",
+            "description": "Workflows that help you analyze survey data."
+        },
+        "user-review-analysis": {
+            "name": "User Review Analysis",
+            "description": "Workflows that help you analyze user reviews."
+        },
+        "user-interview-analysis": {
+            "name": "User Interview Analysis",
+            "description": "Workflows that help you analyze user interview and focus groups calls."
+        },
+        "conversation-analysis": {
+            "name": "Conversation Analysis",
+            "description": "Workflows that help you analyze conversations, such as customer service or sales calls."
+        },
+        "help-desk": {
+            "name": "Help Desk",
+            "description": "Workflows that help you analyze help desk tickets or search through tickets better."
+        },
+        "social-media-listening": {
+            "name": "Social Media Listening",
+            "description": "Workflows that help you analyze social media data."
+        },
+        "seo": {
+            "name": "SEO",
+            "description": "Workflows that help you improve SEO."
+        }
     },
     "tags": {
-        "clustering": {},
-        "tagging": {},
-        "embedding": {}
+        "clustering": {
+            "name": "Clustering",
+            "description": "Workflows related to clustering."
+        },
+        "tagging": {
+            "name": "Tagging",
+            "description": "Workflows related to tagging."
+        },
+        "embedding": {
+            "name": "Embedding",
+            "description": "Workflows related to embedding."
+        }
     }
 }
