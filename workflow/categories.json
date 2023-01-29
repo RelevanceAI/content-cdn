@@ -52,31 +52,79 @@
         }
     },
     "industry": {
-        "general": {},
+        "general": {
+            "name": "General",
+            "description": "Workflows that are applicable to all industries."
+        },
 
-        "gaming,-media-&-entertainment": {},
-        "retail-&-ecommerce": {},
-        "financial-services": {},
-        "technology": {},
-        "manufacturing": {},
-        "healthcare": {},
+        "gaming,-media-&-entertainment": {
+            "name": "Gaming, Media & Entertainment",
+            "description": "Workflows that are applicable to the gaming, media and entertainment industries."
+        },
+        "retail-&-ecommerce": {
+            "name": "Retail & Ecommerce",
+            "description": "Workflows that are applicable to the retail and ecommerce industries."
+        },
+        "financial-services": {
+            "name": "Financial Services",
+            "description": "Workflows that are applicable to the financial services industry."
+        },
+        "technology": {
+            "name": "Technology",
+            "description": "Workflows that are applicable to the technology industry."
+        },
+        "manufacturing": {
+            "name": "Manufacturing",
+            "description": "Workflows that are applicable to the manufacturing industry."
+        },
+        "healthcare": {
+            "name": "Healthcare",
+            "description": "Workflows that are applicable to the healthcare industry."
+        },
 
-        "customer-experience": {},
-        "market-research": {},
-        "product-&-user-research": {},
-        "data-analytics": {},
-        "marketing": {},
-        "sales": {},
-        "finance": {},
-        "design": {},
-        "hr": {}
+        "customer-experience": {
+            "name": "Customer Experience",
+            "description": "Workflows that are applicable to the customer experience teams."
+        },
+        "market-research": {
+            "name": "Market & User Research",
+            "description": "Workflows that are applicable to the market research teams."
+        },
+        "product-development": {
+            "name": "Product Development",
+            "description": "Workflows that are applicable to the product teams."
+        },
+        "data-analytics": {
+            "name": "Data Analytics",
+            "description": "Workflows that are applicable to the data analytics teams."
+        },
+        "marketing": {
+            "name": "Marketing",
+            "description": "Workflows that are applicable to the marketing teams."
+        },
+        "sales": {
+            "name": "Sales",
+            "description": "Workflows that are applicable to the sales teams."
+        },
+        "finance": {
+            "name": "Finance",
+            "description": "Workflows that are applicable to the finance teams."
+        },
+        "design": {
+            "name": "Design",
+            "description": "Workflows that are applicable to the design teams."
+        },
+        "hr": {
+            "name": "HR",
+            "description": "Workflows that are applicable to the HR teams."
+        }
     },
     "use_case": {
         "survey-analysis": {},
         "user-review-analysis": {},
         "user-interview-analysis": {},
         "conversation-analysis": {},
-        "help-desk": {},
+        "help-desk-search": {},
         "social-media-listening": {},
         "seo": {}
     },
