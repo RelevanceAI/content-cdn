@@ -173,6 +173,18 @@
         "embedding": {
             "name": "Embedding",
             "description": "Workflows related to vector embedding."
+        },
+        "multilingual": {
+            "name": "Multilingual",
+            "description": "Workflows that support multiple languages."
+        },
+        "sentiment" : {
+            "name": "Sentiment",
+            "description": "Workflows related to sentiment analysis."
+        },
+        "chunking": {
+            "name": "Chunking",
+            "description": "Workflows related to chunking - breaking up a long of data into smaller pieces. For example paragraphs to sentences."
         }
     }
 }
