@@ -1,0 +1,33 @@
+<svg width="529" height="296" viewBox="0 0 529 296" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_69_136)">
+<rect width="529" height="296" fill="white"/>
+<path d="M529 0H0V296H529V0Z" fill="#0066FF"/>
+<path d="M329.573 283.612L422.5 255.5L173 54.5L154.5 105L105.5 109.5L52.1789 230.448C48.6577 238.435 55.3961 247.145 64.0116 245.742L130 235C126.772 243.823 134.617 252.708 143.772 250.599L326.5 208.5L310.774 265.249C307.618 276.639 318.261 287.035 329.573 283.612Z" fill="url(#paint0_radial_69_136)"/>
+<rect x="169" y="38" width="217" height="155" rx="6" fill="#0D162F"/>
+<path d="M190 141.361L221.75 111.42L253.5 134.12L286.5 87.1746L331 100.68L365 60V170H190L190 141.361Z" fill="url(#paint1_linear_69_136)"/>
+<rect x="104" y="86" width="130" height="130" rx="6" fill="#EEF2FF"/>
+<circle cx="169" cy="151" r="45" fill="#1854FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M169 106V150.5L212.823 140.732C208.178 120.827 190.32 106 169 106Z" fill="#2DD4BF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M209.456 170.728C212.367 164.771 214 158.076 214 151C214 147.477 213.595 144.05 212.83 140.76L169 150.5L209.456 170.728Z" fill="#FCD34D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M197.066 186.177L169 150.5L209.456 170.728C206.511 176.757 202.258 182.03 197.066 186.177Z" fill="#EF4444"/>
+<rect x="340" y="116" width="86" height="141" rx="6" fill="#EEF2FF"/>
+<rect x="356" y="179" width="22" height="62" rx="3" fill="#1854FF"/>
+<rect x="388" y="132" width="22" height="109" rx="3" fill="#2DD4BF"/>
+<path d="M469.534 86.5483L461 101L452.452 86.5483L438 78L452.452 69.4663L461 55L469.534 69.4663L484 78L469.534 86.5483Z" fill="white"/>
+<path d="M79.5986 64.7993L69.7993 55L60 64.7993L69.7993 74.5986L79.5986 64.7993Z" fill="white"/>
+<path d="M284.599 250.799L274.799 241L265 250.799L274.799 260.599L284.599 250.799Z" fill="white"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_69_136" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(263 98) rotate(99.7824) scale(176.567 509.308)">
+<stop offset="0.327312" stop-color="#003F9D"/>
+<stop offset="1" stop-color="#003F9D" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint1_linear_69_136" x1="277.5" y1="60" x2="277.5" y2="170" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6366F1"/>
+<stop offset="1" stop-color="#2D31FF"/>
+</linearGradient>
+<clipPath id="clip0_69_136">
+<rect width="529" height="296" fill="white"/>
+</clipPath>
+</defs>
+</svg>
