@@ -1,0 +1,6 @@
+{
+    "text" : ["ai_clustering", "ai_tagging", "anonymize_text"],
+    "audio" : ["ai_search_audio", "audio_core", "audio_transcribe_whisper", "conversation_ai_premium"],
+    "pdf" : ["ai_search_documents", "document_ai"],
+    "image" : ["vectorize_image", "image_labelling", "image_visual_qa"]
+}
