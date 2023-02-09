@@ -1,7 +1,7 @@
 {
     "text" : [
-        {"workflow_id":"ai_clustering","version":"production_version"}, 
-        {"workflow_id":"ai_tagging","version":"production_version"}, 
+        {"workflow_id":"ai-clustering","version":"production_version"}, 
+        {"workflow_id":"ai-tagging","version":"production_version"}, 
         {"workflow_id":"anonymize_text","version":"production_version"}
     ],
     "audio" : [
