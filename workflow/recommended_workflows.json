@@ -1,6 +1,22 @@
 {
-    "text" : ["ai_clustering", "ai_tagging", "anonymize_text"],
-    "audio" : ["ai_search_audio", "audio_core", "audio_transcribe_whisper", "conversation_ai_premium"],
-    "pdf" : ["ai_search_audio", "document_ai"],
-    "image" : ["vectorize_image", "image_labelling", "image_visual_qa"]
+    "text" : [
+        {"workflow_id":"ai_clustering","version":"production_version"}, 
+        {"workflow_id":"ai_tagging","version":"production_version"}, 
+        {"workflow_id":"anonymize_text","version":"production_version"}
+    ],
+    "audio" : [
+        {"workflow_id":"ai_search_audio","version":"v1.8.2"}, 
+        {"workflow_id":"audio_core","version":"production_version"}, 
+        {"workflow_id":"audio_transcribe_whisper","version":"v1.8.2"}, 
+        {"workflow_id":"conversation_ai_premium","version":"v1.8.2"}
+    ],
+    "pdf" : [
+        {"workflow_id":"ai_search_documents","version":"v1.8.2"}, 
+        {"workflow_id":"document_ai","version":"v1.8.2"}
+    ],
+    "image" : [
+        {"workflow_id":"vectorize_image","version":"production_version"}, 
+        {"workflow_id":"image_labelling","version":"production_version"}, 
+        {"workflow_id":"image_visual_qa","version":"production_version"}
+    ]
 }
