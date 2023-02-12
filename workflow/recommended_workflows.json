@@ -5,14 +5,14 @@
         {"workflow_id":"anonymize_text","version":"production_version"}
     ],
     "audio" : [
-        {"workflow_id":"ai_search_audio","version":"v1.8.2"}, 
+        {"workflow_id":"ai_search_audio","version":"production_version"}, 
         {"workflow_id":"audio_core","version":"production_version"}, 
-        {"workflow_id":"audio_transcribe_whisper","version":"v1.8.2"}, 
-        {"workflow_id":"conversation_ai_premium","version":"v1.8.2"}
+        {"workflow_id":"audio_transcribe_whisper","version":"production_version"}, 
+        {"workflow_id":"conversation_ai_premium","version":"production_version"}
     ],
     "pdf" : [
-        {"workflow_id":"ai_search_documents","version":"v1.8.2"}, 
-        {"workflow_id":"document_ai","version":"v1.8.2"}
+        {"workflow_id":"ai_search_documents","version":"production_version"}, 
+        {"workflow_id":"document_ai","version":"production_version"}
     ],
     "image" : [
         {"workflow_id":"vectorize_image","version":"production_version"}, 
