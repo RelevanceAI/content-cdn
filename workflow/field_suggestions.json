@@ -1,9 +1,14 @@
 {
   "text": [
     {
+      "workflow_id": "cluster_text_template",
+      "version": "production_version",
+      "label": "Cluster text"
+    },
+    {
       "workflow_id": "add_tags_template",
       "version": "production_version",
-      "label": "Categorise text"
+      "label": "Tag text"
     },
     {
       "workflow_id": "sentiment",
