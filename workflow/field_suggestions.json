@@ -1,0 +1,50 @@
+{
+  "text": [
+    {
+      "workflow_id": "ai-tagging",
+      "version": "production_version",
+      "label": "Categorise text"
+    },
+    {
+      "workflow_id": "sentiment",
+      "version": "production_version",
+      "label": "Analyse sentiment"
+    }
+  ],
+  "audio": [
+    {
+      "workflow_id": "audio_core",
+      "version": "production_version",
+      "label": "Transcribe audio"
+    },
+    {
+      "workflow_id": "conversation_ai_premium",
+      "version": "production_version",
+      "label": "Extract data"
+    }
+  ],
+  "pdf": [
+    {
+      "workflow_id": "document_ai",
+      "version": "production_version",
+      "label": "Extract data"
+    },
+    {
+      "workflow_id": "ai_search_documents",
+      "version": "production_version",
+      "label": "Analyse using questions"
+    }
+  ],
+  "image": [
+    {
+      "workflow_id": "image_labelling",
+      "version": "production_version",
+      "label": "Label images"
+    },
+    {
+      "workflow_id": "image_labelling",
+      "version": "production_version",
+      "label": "Analyse using questions"
+    }
+  ]
+}
