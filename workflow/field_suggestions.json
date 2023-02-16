@@ -1,7 +1,7 @@
 {
   "text": [
     {
-      "workflow_id": "ai-tagging",
+      "workflow_id": "add_tags_template",
       "version": "production_version",
       "label": "Categorise text"
     },
