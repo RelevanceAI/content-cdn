@@ -12,7 +12,8 @@
     ],
     "pdf" : [
         {"workflow_id":"ai_search_documents","version":"production_version"}, 
-        {"workflow_id":"document_ai","version":"production_version"}
+        {"workflow_id":"document_ai","version":"production_version"},
+        {"workflow_id":"extract_pdf_azure","version":"production_version"}
     ],
     "image" : [
         {"workflow_id":"vectorize_image","version":"production_version"}, 
