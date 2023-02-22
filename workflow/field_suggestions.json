@@ -4,7 +4,7 @@
       "workflow_id": "cluster_text_template",
       "version": "production_version",
       "label": "Cluster text",
-      "icon": "svg-icon"
+      "icon": "svg-apps"
     },
     {
       "workflow_id": "add_tags_template",
@@ -23,36 +23,42 @@
     {
       "workflow_id": "audio_core",
       "version": "production_version",
-      "label": "Transcribe audio"
+      "label": "Transcribe audio",
+      "icon": "svg-comment-message"
     },
     {
       "workflow_id": "conversation_ai_premium",
       "version": "production_version",
-      "label": "Extract data"
+      "label": "Extract data",
+      "icon": "svg-processor"
     }
   ],
   "pdf": [
     {
       "workflow_id": "document_ai",
       "version": "production_version",
-      "label": "Extract data"
+      "label": "Extract data",
+      "icon": "svg-processor"
     },
     {
       "workflow_id": "ai_search_documents",
       "version": "production_version",
-      "label": "Analyse using questions"
+      "label": "Analyse using questions",
+      "icon": "svg-comment-search"
     }
   ],
   "image": [
     {
       "workflow_id": "image_labelling",
       "version": "production_version",
-      "label": "Label images"
+      "label": "Label images",
+      "icon": "svg-field-label"
     },
     {
       "workflow_id": "image_labelling",
       "version": "production_version",
-      "label": "Analyse using questions"
+      "label": "Analyse using questions",
+      "icon": "svg-image-search"
     }
   ]
 }
