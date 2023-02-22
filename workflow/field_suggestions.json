@@ -3,17 +3,20 @@
     {
       "workflow_id": "cluster_text_template",
       "version": "production_version",
-      "label": "Cluster text"
+      "label": "Cluster text",
+      "icon": "svg-icon"
     },
     {
       "workflow_id": "add_tags_template",
       "version": "production_version",
-      "label": "Tag text"
+      "label": "Tag text",
+      "icon": "svg-field-tags"
     },
     {
       "workflow_id": "sentiment",
       "version": "production_version",
-      "label": "Analyse sentiment"
+      "label": "Analyse sentiment",
+      "icon": "svg-field-sentiment"
     }
   ],
   "audio": [
