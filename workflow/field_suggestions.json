@@ -58,7 +58,8 @@
     {
       "workflow_id": "image_labelling",
       "version": "production_version",
-      "label": "Label your images automatically.",
+      "label": "Label images",
+      "description": "Tag your images automatically.",
       "icon": "svg-field-label"
     },
     {
