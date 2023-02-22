@@ -4,18 +4,21 @@
       "workflow_id": "cluster_text_template",
       "version": "production_version",
       "label": "Cluster text",
+      "description": "Categorise your text data based on its content.",
       "icon": "svg-apps"
     },
     {
       "workflow_id": "add_tags_template",
       "version": "production_version",
       "label": "Tag text",
+      "description": "Tag your text data automatically.",
       "icon": "svg-field-tags"
     },
     {
       "workflow_id": "sentiment",
       "version": "production_version",
       "label": "Analyse sentiment",
+      "description": "Determine the sentiment of your text data.",
       "icon": "svg-field-sentiment"
     }
   ],
@@ -24,12 +27,14 @@
       "workflow_id": "audio_core",
       "version": "production_version",
       "label": "Transcribe audio",
+      "description": "Transcribe your audio data and identify speakers using AI.",
       "icon": "svg-comment-message"
     },
     {
       "workflow_id": "conversation_ai_premium",
       "version": "production_version",
       "label": "Extract data",
+      "description": "Extract relevant information from your audio into fields.",
       "icon": "svg-processor"
     }
   ],
@@ -38,12 +43,14 @@
       "workflow_id": "document_ai",
       "version": "production_version",
       "label": "Extract data",
+      "description": "Extract relevant information from your PDF into fields.",
       "icon": "svg-processor"
     },
     {
       "workflow_id": "ai_search_documents",
       "version": "production_version",
       "label": "Analyse using questions",
+      "description": "Query your PDF via a ChatGPT-like interface.",
       "icon": "svg-comment-search"
     }
   ],
@@ -51,13 +58,14 @@
     {
       "workflow_id": "image_labelling",
       "version": "production_version",
-      "label": "Label images",
+      "label": "Label your images automatically.",
       "icon": "svg-field-label"
     },
     {
       "workflow_id": "image_labelling",
       "version": "production_version",
       "label": "Analyse using questions",
+      "description": "Extract relevant information from your images using questions.",
       "icon": "svg-image-search"
     }
   ]
