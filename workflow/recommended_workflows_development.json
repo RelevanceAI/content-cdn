@@ -6,15 +6,14 @@
         {"workflow_id":"anonymize_text","version":"production_version"}
     ],
     "audio" : [
+        {"workflow_id":"interview_ai_template","version":"development_version"},
+        {"workflow_id":"conversation_ai_template","version":"development_version"},
         {"workflow_id":"ai_search_audio","version":"production_version"}, 
-        {"workflow_id":"audio_core","version":"production_version"}, 
-        {"workflow_id":"audio_transcribe_whisper","version":"production_version"}, 
-        {"workflow_id":"conversation_ai_premium","version":"production_version"}
+        {"workflow_id":"audio_core","version":"production_version"}
     ],
     "pdf" : [
         {"workflow_id":"ai_search_documents","version":"production_version"}, 
-        {"workflow_id":"document_ai","version":"production_version"},
-        {"workflow_id":"extract_pdf_azure","version":"production_version"}
+        {"workflow_id":"document_ai_template","version":"development_version"}
     ],
     "image" : [
         {"workflow_id":"vectorize_image","version":"production_version"}, 
