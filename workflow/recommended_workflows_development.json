@@ -2,7 +2,7 @@
     "text" : [
         {"workflow_id":"cluster_text_otm_template","version":"production_version"}, 
         {"workflow_id":"add_tags_template","version":"production_version"},
-        {"workflow_id":"feedback_ai","version":"production_version"},
+        {"workflow_id":"ai_search","version":"production_version"},
         {"workflow_id":"interview_ai_template","version":"production_version"}
     ],
     "audio" : [
