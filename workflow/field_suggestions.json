@@ -1,7 +1,7 @@
 {
   "text": [
     {
-      "workflow_id": "cluster_text_template",
+      "workflow_id": "cluster_text_all_template",
       "version": "production_version",
       "label": "Cluster text",
       "description": "Categorise your text data based on its content.",
