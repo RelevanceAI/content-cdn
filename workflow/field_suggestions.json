@@ -40,7 +40,7 @@
   ],
   "pdf": [
     {
-      "workflow_id": "document_ai",
+      "workflow_id": "document_ai_template",
       "version": "production_version",
       "label": "Extract data",
       "description": "Extract relevant information from your PDF into fields.",
