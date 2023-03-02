@@ -1,8 +1,8 @@
 {
     "text" : [
+        {"workflow_id":"cluster_text_all_template","version":"production_version"},
         {"workflow_id":"add_tags_template","version":"production_version"},
         {"workflow_id":"ai_search","version":"production_version"},
-        {"workflow_id":"cluster_text_all_template","version":"production_version"},
         {"workflow_id":"sentiment","version":"production_version"}
     ],
     "audio" : [
