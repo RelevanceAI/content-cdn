@@ -1,7 +1,7 @@
 {
   "text": [
     {
-      "workflow_id": "cluster_text_template",
+      "workflow_id": "cluster_text_all_template",
       "version": "production_version",
       "label": "Cluster text",
       "description": "Categorise your text data based on its content.",
@@ -40,7 +40,7 @@
   ],
   "pdf": [
     {
-      "workflow_id": "document_ai",
+      "workflow_id": "document_ai_template",
       "version": "production_version",
       "label": "Extract data",
       "description": "Extract relevant information from your PDF into fields.",
