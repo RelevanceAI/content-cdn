@@ -7,7 +7,6 @@
     ],
     "audio" : [
         {"workflow_id":"interview_ai_template","version":"development_version"},
-        {"workflow_id":"conversation_ai_template","version":"development_version"},
         {"workflow_id":"ai_search_audio","version":"production_version"}, 
         {"workflow_id":"audio_core","version":"production_version"}
     ],
