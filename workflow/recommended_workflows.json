@@ -18,5 +18,8 @@
         {"workflow_id":"vectorize_image","version":"production_version"}, 
         {"workflow_id":"image_labelling","version":"production_version"}, 
         {"workflow_id":"image_visual_qa","version":"production_version"}
+    ],
+    "link" : [
+        {"workflow_id":"interview_ai_template","version":"development_version"},
     ]
 }
