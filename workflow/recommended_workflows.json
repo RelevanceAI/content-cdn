@@ -1,25 +1,64 @@
 {
-    "text" : [
-        {"workflow_id":"cluster_text_all_template","version":"production_version"},
-        {"workflow_id":"add_tags_template","version":"production_version"},
-        {"workflow_id":"ai_search","version":"production_version"},
-        {"workflow_id":"sentiment","version":"production_version"}
-    ],
-    "audio" : [
-        {"workflow_id":"interview_ai_template","version":"development_version"},
-        {"workflow_id":"ai_search_audio","version":"production_version"}, 
-        {"workflow_id":"audio_core","version":"production_version"}
-    ],
-    "pdf" : [
-        {"workflow_id":"ai_search_documents","version":"production_version"}, 
-        {"workflow_id":"document_ai_template","version":"development_version"}
-    ],
-    "image" : [
-        {"workflow_id":"vectorize_image","version":"production_version"}, 
-        {"workflow_id":"image_labelling","version":"production_version"}, 
-        {"workflow_id":"image_visual_qa","version":"production_version"}
-    ],
-    "link" : [
-        {"workflow_id":"interview_ai_template","version":"development_version"},
-    ]
+   "text":[
+      {
+         "workflow_id":"cluster_text_all_template",
+         "version":"production_version"
+      },
+      {
+         "workflow_id":"add_tags_template",
+         "version":"production_version"
+      },
+      {
+         "workflow_id":"ai_search",
+         "version":"production_version"
+      },
+      {
+         "workflow_id":"sentiment",
+         "version":"production_version"
+      }
+   ],
+   "audio":[
+      {
+         "workflow_id":"interview_ai_template",
+         "version":"development_version"
+      },
+      {
+         "workflow_id":"ai_search_audio",
+         "version":"production_version"
+      },
+      {
+         "workflow_id":"audio_core",
+         "version":"production_version"
+      }
+   ],
+   "pdf":[
+      {
+         "workflow_id":"ai_search_documents",
+         "version":"production_version"
+      },
+      {
+         "workflow_id":"document_ai_template",
+         "version":"development_version"
+      }
+   ],
+   "image":[
+      {
+         "workflow_id":"vectorize_image",
+         "version":"production_version"
+      },
+      {
+         "workflow_id":"image_labelling",
+         "version":"production_version"
+      },
+      {
+         "workflow_id":"image_visual_qa",
+         "version":"production_version"
+      }
+   ],
+   "link":[
+      {
+         "workflow_id":"interview_ai_template",
+         "version":"development_version"
+      }
+   ]
 }
