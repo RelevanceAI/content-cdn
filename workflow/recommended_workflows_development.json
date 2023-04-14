@@ -11,6 +11,7 @@
         {"workflow_id":"audio_core","version":"production_version"}
     ],
     "pdf" : [
+        {"workflow_id":"interview_ai_template","version":"development_version"},
         {"workflow_id":"ai_search_documents","version":"production_version"}, 
         {"workflow_id":"document_ai_template","version":"development_version"}
     ],
