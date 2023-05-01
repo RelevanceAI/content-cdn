@@ -1,0 +1,11 @@
+{
+    "deployable_transformations": [
+        {
+            "transformation_id" : "bark_audio",
+            "author" : "Relevance AI",
+            "name" : "Generate Audio from text with Bark",
+            "description" : "Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying with [laughter], [laughs].",
+            "link" : "https://colab.research.google.com/drive/1vienQ4eKE-PoYLmauhsIJYF0jcp3z7hN?usp=sharing"
+        }
+    ]
+}
