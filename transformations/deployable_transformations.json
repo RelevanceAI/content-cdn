@@ -1,17 +1,10 @@
 {
     "deployable_transformations": [
         {
-            "transformation_id" : "bark_audio",
-            "author" : "Relevance AI",
-            "name" : "Generate Audio from text with Bark",
-            "description" : "Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying with [laughter], [laughs].",
-            "link" : "https://colab.research.google.com/drive/1vienQ4eKE-PoYLmauhsIJYF0jcp3z7hN?usp=sharing"
-        },
-        {
             "transformation_id" : "gpt2",
             "author" : "Relevance AI",
             "name" : "Generate text using GPT2",
-            "description" : "GPT-2 is a language model developed by OpenAI, which is the predecessor of GPT3 and GPT4. It is based on the Transformer architecture and was trained on a massive amount of text data from the internet to generate human-like text. Run and deploy a custom transformation of GPT2 via the Huggingface transformers library.",
+            "description" : "GPT-2 is a language model developed by OpenAI, which is the predecessor of GPT3 and GPT4. Run and deploy a custom transformation of GPT2 via the Huggingface transformers library.",
             "link" : "https://colab.research.google.com/drive/1QtiMGzLwT5fuZ1NugYijPSD5iPGNkIHj?usp=sharing"
         },
         {
@@ -20,6 +13,13 @@
             "name" : "Generate images using Stable Diffusion",
             "description" : "Generate images from text using Stable Diffusion v1.5 by Runway",
             "link" : "https://colab.research.google.com/drive/1qoqGtailHxu5EK7fABzlI_D1_wF_ZP01?usp=sharing"
+        },
+        {
+            "transformation_id" : "bark_audio",
+            "author" : "Relevance AI",
+            "name" : "Generate Audio from text with Bark",
+            "description" : "Bark is a transformer-based text-to-audio model created by Suno, it can generate highly realistic, multilingual speech as well as music, background noise and simple sound effects. For example nonverbal communications like laughing, sighing and crying with [laughter], [laughs].",
+            "link" : "https://colab.research.google.com/drive/1vienQ4eKE-PoYLmauhsIJYF0jcp3z7hN?usp=sharing"
         }
     ]
 }
