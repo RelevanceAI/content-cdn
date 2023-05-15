@@ -20,6 +20,6 @@
             "name" : "Generate images using Stable Diffusion",
             "description" : "Generate images from text using Stable Diffusion v1.5 by Runway",
             "link" : "https://colab.research.google.com/drive/1qoqGtailHxu5EK7fABzlI_D1_wF_ZP01?usp=sharing"
-        },
+        }
     ]
 }
