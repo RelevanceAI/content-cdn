@@ -13,6 +13,13 @@
             "name" : "Generate text using GPT2",
             "description" : "GPT-2 is a language model developed by OpenAI, which is the predecessor of GPT3 and GPT4. It is based on the Transformer architecture and was trained on a massive amount of text data from the internet to generate human-like text. Run and deploy a custom transformation of GPT2 via the Huggingface transformers library.",
             "link" : "https://colab.research.google.com/drive/1QtiMGzLwT5fuZ1NugYijPSD5iPGNkIHj?usp=sharing"
-        }
+        },
+        {
+            "transformation_id" : "stable_diffusion",
+            "author" : "Relevance AI",
+            "name" : "Generate images using Stable Diffusion",
+            "description" : "Generate images from text using Stable Diffusion v1.5 by Runway",
+            "link" : "https://colab.research.google.com/drive/1qoqGtailHxu5EK7fABzlI_D1_wF_ZP01?usp=sharing"
+        },
     ]
 }
