@@ -2,4 +2,3 @@ name,age,"num,ber",list
 bob,12, 83,"[a,b,c]"
 alice, 13, 9,"[""c"",""d"",""e""]"
 charlie, 14, 0,"['f','g','h']"
-david, 14, 0,"[',','g','h']"
