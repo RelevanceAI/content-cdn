@@ -1,35 +1,39 @@
 <svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_675_3486)">
-<rect width="72" height="72" fill="#DDE6FA"/>
-<path opacity="0.5" d="M19 73V50.5L52.5 50L72.5 73H19Z" fill="url(#paint0_linear_675_3486)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M52.95 41.075H19V50.5184C19 50.5206 19 50.5228 19 50.5249C19 50.5271 19 50.5293 19 50.5315V50.6999H19.0061C19.2492 54.1951 26.7534 56.9999 35.975 56.9999C45.1966 56.9999 52.7008 54.1951 52.9439 50.6999H52.95V41.075Z" fill="url(#paint1_linear_675_3486)"/>
+<g clip-path="url(#clip0_688_368)">
+<rect width="72" height="72" fill="url(#paint0_linear_688_368)"/>
+<path opacity="0.5" d="M19 73V50.5L52.5 50L72.5 73H19Z" fill="url(#paint1_linear_688_368)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M52.95 41.075H19V50.5184C19 50.5206 19 50.5228 19 50.525C19 50.5272 19 50.5294 19 50.5316V50.7H19.0061C19.2492 54.1951 26.7534 57 35.975 57C45.1966 57 52.7008 54.1951 52.9439 50.7H52.95V41.075Z" fill="url(#paint2_linear_688_368)"/>
 <ellipse cx="35.975" cy="41.075" rx="16.975" ry="6.475" fill="#0F0BFF"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M52.95 31.275H19V40.7185C19 40.7207 19 40.7228 19 40.725C19 40.7272 19 40.7294 19 40.7316V40.9H19.0061C19.2492 44.3952 26.7534 47.2 35.975 47.2C45.1966 47.2 52.7008 44.3952 52.9439 40.9H52.95V31.275Z" fill="url(#paint2_linear_675_3486)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M52.95 31.275H19V40.7185C19 40.7207 19 40.7228 19 40.725C19 40.7272 19 40.7294 19 40.7316V40.9H19.0061C19.2492 44.3952 26.7534 47.2 35.975 47.2C45.1966 47.2 52.7008 44.3952 52.9439 40.9H52.95V31.275Z" fill="url(#paint3_linear_688_368)"/>
 <ellipse cx="35.975" cy="31.275" rx="16.975" ry="6.475" fill="#0F0BFF"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M52.95 21.475H19V30.9184C19 30.9206 19 30.9228 19 30.925C19 30.9272 19 30.9293 19 30.9315V31.1H19.0061C19.2492 34.5951 26.7534 37.4 35.975 37.4C45.1966 37.4 52.7008 34.5951 52.9439 31.1H52.95V21.475Z" fill="url(#paint3_linear_675_3486)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M52.95 21.475H19V30.9184C19 30.9206 19 30.9228 19 30.925C19 30.9272 19 30.9293 19 30.9315V31.1H19.0061C19.2492 34.5951 26.7534 37.4 35.975 37.4C45.1966 37.4 52.7008 34.5951 52.9439 31.1H52.95V21.475Z" fill="url(#paint4_linear_688_368)"/>
 <ellipse cx="35.975" cy="21.475" rx="16.975" ry="6.475" fill="#0F0BFF"/>
 </g>
 <defs>
-<linearGradient id="paint0_linear_675_3486" x1="45.75" y1="50" x2="45.75" y2="73" gradientUnits="userSpaceOnUse">
-<stop stop-color="#90B0DF"/>
-<stop offset="1" stop-color="#90B0DF" stop-opacity="0"/>
+<linearGradient id="paint0_linear_688_368" x1="36" y1="0" x2="36" y2="72" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EAF0FF"/>
+<stop offset="1" stop-color="#C1D0F2"/>
 </linearGradient>
-<linearGradient id="paint1_linear_675_3486" x1="19" y1="48.9499" x2="52.95" y2="48.9499" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1_linear_688_368" x1="45.75" y1="50" x2="45.75" y2="73" gradientUnits="userSpaceOnUse">
+<stop stop-color="#90A6DF"/>
+<stop offset="1" stop-color="#90A6DF" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_688_368" x1="19" y1="48.95" x2="52.95" y2="48.95" gradientUnits="userSpaceOnUse">
 <stop stop-color="#1E93FF"/>
 <stop offset="0.9999" stop-color="#3A35FF"/>
 <stop offset="1" stop-color="#0249FF"/>
 </linearGradient>
-<linearGradient id="paint2_linear_675_3486" x1="19" y1="39.15" x2="52.95" y2="39.15" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint3_linear_688_368" x1="19" y1="39.15" x2="52.95" y2="39.15" gradientUnits="userSpaceOnUse">
 <stop stop-color="#1E93FF"/>
 <stop offset="0.9999" stop-color="#3A35FF"/>
 <stop offset="1" stop-color="#0249FF"/>
 </linearGradient>
-<linearGradient id="paint3_linear_675_3486" x1="19" y1="29.35" x2="52.95" y2="29.35" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint4_linear_688_368" x1="19" y1="29.35" x2="52.95" y2="29.35" gradientUnits="userSpaceOnUse">
 <stop stop-color="#1E93FF"/>
 <stop offset="0.9999" stop-color="#3A35FF"/>
 <stop offset="1" stop-color="#0249FF"/>
 </linearGradient>
-<clipPath id="clip0_675_3486">
+<clipPath id="clip0_688_368">
 <rect width="72" height="72" fill="white"/>
 </clipPath>
 </defs>
