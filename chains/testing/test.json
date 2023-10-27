@@ -1,0 +1,31 @@
+[
+  {
+    "number": 1,
+    "letter": "a",
+    "array": ["yes", "no"]
+  },
+  {
+    "number": 2,
+    "letter": "b",
+    "array": ["maybe", "so"]
+  },
+  {
+    "number": 3,
+    "letter": "c",
+    "array": ["yes", "maybe"]
+  },
+  {
+    "number": 4,
+    "letter": "a",
+    "array": ["maybe", "no"]
+  },
+  {
+    "number": 5,
+    "letter": "b",
+    "array": ["different"]
+  },
+  {
+    "number": 6,
+    "letter": "c"
+  }
+]
