@@ -1,17 +1,1 @@
-[
-  {
-    "chain_id": "b14c3c4f-be9e-4581-a7fb-b1d5bf0f40e5",
-    "region": "bcbe5a",
-    "project": "4dc088f2dcfc-4e60-807e-353c334d4a5b"
-  },
-  {
-    "chain_id": "5fb70eb8-cb37-4edf-b445-ee62d061d3f5",
-    "region": "bcbe5a",
-    "project": "4dc088f2dcfc-4e60-807e-353c334d4a5b"
-  },
-  {
-    "chain_id": "3501aa31-12eb-4809-8b71-0a1c244c6932",
-    "region": "bcbe5a",
-    "project": "4dc088f2dcfc-4e60-807e-353c334d4a5b"
-  }
-]
+[]
