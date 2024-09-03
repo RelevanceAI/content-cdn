@@ -19,6 +19,9 @@
     },
     {
         "category_name": "Build along",
-        "youtube_urls": ["https://www.youtube.com/watch?v=BGO0m5V8Zu4"]
+        "youtube_urls": [
+            "https://www.youtube.com/watch?v=BGO0m5V8Zu4",
+            "https://www.youtube.com/watch?v=f373D0JAHdw"
+        ]
     }
 ]
