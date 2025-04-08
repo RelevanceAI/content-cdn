@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" viewBox="0 0 16 16">
+  <defs>
+    <path id="c" fill="#fff" d="M0 0h16v16H0z"/>
+  </defs>
+  <g clip-path="url(#a)">
+    <g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" clip-path="url(#b)">
+      <path d="m4.667 8.333 2 2 4.666-4.667"/>
+      <path d="M8 14.667A6.667 6.667 0 1 0 8 1.333a6.667 6.667 0 0 0 0 13.334Z"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <use xlink:href="#c"/>
+    </clipPath>
+    <clipPath id="b">
+      <use xlink:href="#c"/>
+    </clipPath>
+  </defs>
+</svg>
