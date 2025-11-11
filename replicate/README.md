@@ -26,23 +26,23 @@ replicate/
 
 ## 🔗 URL Pattern
 
-Media files are accessed via direct CDN URLs following this pattern:
+Media files are accessed via jsdelivr's GitHub CDN following this pattern:
 
-- **Collection covers**: `https://cdn.relevanceai.com/replicate/collections/{collection-slug}.webp`
-- **Model covers**: `https://cdn.relevanceai.com/replicate/models/{owner}__{model-name}/cover.webp`
-- **Example media**: `https://cdn.relevanceai.com/replicate/models/{owner}__{model-name}/example-{input|output}-{number}.{ext}`
+- **Collection covers**: `https://cdn.jsdelivr.net/gh/RelevanceAI/content-cdn@latest/replicate/collections/{collection-slug}.webp`
+- **Model covers**: `https://cdn.jsdelivr.net/gh/RelevanceAI/content-cdn@latest/replicate/models/{owner}__{model-name}/cover.webp`
+- **Example media**: `https://cdn.jsdelivr.net/gh/RelevanceAI/content-cdn@latest/replicate/models/{owner}__{model-name}/example-{input|output}-{number}.{ext}`
 
 ### Examples:
 
 ```
 # Collection cover
-https://cdn.relevanceai.com/replicate/collections/text-to-video.webp
+https://cdn.jsdelivr.net/gh/RelevanceAI/content-cdn@latest/replicate/collections/text-to-video.webp
 
 # Model cover image
-https://cdn.relevanceai.com/replicate/models/google__veo-3/cover.webp
+https://cdn.jsdelivr.net/gh/RelevanceAI/content-cdn@latest/replicate/models/google__veo-3/cover.webp
 
 # Model example output video
-https://cdn.relevanceai.com/replicate/models/google__veo-3/example-output-1.mp4
+https://cdn.jsdelivr.net/gh/RelevanceAI/content-cdn@latest/replicate/models/google__veo-3/example-output-1.mp4
 ```
 
 ## 🎨 Naming Conventions
