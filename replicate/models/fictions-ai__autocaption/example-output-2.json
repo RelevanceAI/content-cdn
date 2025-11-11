@@ -1,0 +1,417 @@
+[
+    {
+        "word": " I",
+        "start": 0.0,
+        "end": 1.0
+    },
+    {
+        "word": " REFUSE",
+        "start": 1.0,
+        "end": 1.4
+    },
+    {
+        "word": " TO",
+        "start": 1.4,
+        "end": 1.9
+    },
+    {
+        "word": " ACCEPT",
+        "start": 1.9,
+        "end": 2.34
+    },
+    {
+        "word": " THE",
+        "start": 2.34,
+        "end": 2.7
+    },
+    {
+        "word": " IDEA",
+        "start": 2.7,
+        "end": 3.32
+    },
+    {
+        "word": " THAT",
+        "start": 3.32,
+        "end": 5.52
+    },
+    {
+        "word": " MAN",
+        "start": 5.52,
+        "end": 5.94
+    },
+    {
+        "word": " IS",
+        "start": 5.94,
+        "end": 6.34
+    },
+    {
+        "word": " MERE",
+        "start": 6.34,
+        "end": 6.64
+    },
+    {
+        "word": " FLOATSOME",
+        "start": 6.64,
+        "end": 7.44
+    },
+    {
+        "word": " AND",
+        "start": 7.44,
+        "end": 7.72
+    },
+    {
+        "word": " JETSOME",
+        "start": 7.72,
+        "end": 8.34
+    },
+    {
+        "word": " IN",
+        "start": 8.34,
+        "end": 8.48
+    },
+    {
+        "word": " THE",
+        "start": 8.48,
+        "end": 8.62
+    },
+    {
+        "word": " RIVET",
+        "start": 8.62,
+        "end": 8.94
+    },
+    {
+        "word": " OF",
+        "start": 8.94,
+        "end": 9.1
+    },
+    {
+        "word": " LIFE,",
+        "start": 9.1,
+        "end": 9.62
+    },
+    {
+        "word": " UNABLE",
+        "start": 10.759999999999998,
+        "end": 11.2
+    },
+    {
+        "word": " TO",
+        "start": 11.2,
+        "end": 11.64
+    },
+    {
+        "word": " INFLUENCE",
+        "start": 11.64,
+        "end": 12.28
+    },
+    {
+        "word": " THE",
+        "start": 12.28,
+        "end": 12.74
+    },
+    {
+        "word": " UNFOLDING",
+        "start": 12.74,
+        "end": 13.54
+    },
+    {
+        "word": " EVENTS",
+        "start": 13.54,
+        "end": 14.18
+    },
+    {
+        "word": " WHICH",
+        "start": 14.18,
+        "end": 14.58
+    },
+    {
+        "word": " SURROUND",
+        "start": 14.58,
+        "end": 15.12
+    },
+    {
+        "word": " HIM.",
+        "start": 15.12,
+        "end": 15.54
+    },
+    {
+        "word": " I",
+        "start": 16.98,
+        "end": 17.42
+    },
+    {
+        "word": " REFUSE",
+        "start": 17.42,
+        "end": 17.82
+    },
+    {
+        "word": " TO",
+        "start": 17.82,
+        "end": 18.22
+    },
+    {
+        "word": " ACCEPT",
+        "start": 18.22,
+        "end": 18.58
+    },
+    {
+        "word": " THE",
+        "start": 18.58,
+        "end": 18.8
+    },
+    {
+        "word": " VIEW",
+        "start": 18.8,
+        "end": 19.02
+    },
+    {
+        "word": " THAT",
+        "start": 19.02,
+        "end": 19.22
+    },
+    {
+        "word": " MANKIND",
+        "start": 19.22,
+        "end": 19.62
+    },
+    {
+        "word": " IS",
+        "start": 19.62,
+        "end": 20.2
+    },
+    {
+        "word": " SO",
+        "start": 20.2,
+        "end": 20.4
+    },
+    {
+        "word": " TRAGICALLY",
+        "start": 20.4,
+        "end": 21.12
+    },
+    {
+        "word": " BOUND",
+        "start": 21.12,
+        "end": 21.62
+    },
+    {
+        "word": " TO",
+        "start": 21.62,
+        "end": 22.88
+    },
+    {
+        "word": " THE",
+        "start": 22.88,
+        "end": 23.08
+    },
+    {
+        "word": " STARLESS",
+        "start": 23.08,
+        "end": 23.86
+    },
+    {
+        "word": " MIDNIGHT",
+        "start": 23.86,
+        "end": 24.54
+    },
+    {
+        "word": " OF",
+        "start": 24.54,
+        "end": 24.82
+    },
+    {
+        "word": " RACISM",
+        "start": 24.82,
+        "end": 25.48
+    },
+    {
+        "word": " AND",
+        "start": 25.48,
+        "end": 26.1
+    },
+    {
+        "word": " WAR,",
+        "start": 26.1,
+        "end": 26.56
+    },
+    {
+        "word": " AND",
+        "start": 27.96,
+        "end": 28.12
+    },
+    {
+        "word": " THE",
+        "start": 28.12,
+        "end": 28.28
+    },
+    {
+        "word": " BRIGHT",
+        "start": 28.28,
+        "end": 28.6
+    },
+    {
+        "word": " DAYBREAK",
+        "start": 28.6,
+        "end": 29.14
+    },
+    {
+        "word": " OF",
+        "start": 29.14,
+        "end": 29.34
+    },
+    {
+        "word": " PEACE",
+        "start": 29.34,
+        "end": 29.62
+    },
+    {
+        "word": " AND",
+        "start": 29.62,
+        "end": 29.86
+    },
+    {
+        "word": " BROTHERHOOD",
+        "start": 29.86,
+        "end": 30.52
+    },
+    {
+        "word": " CAN",
+        "start": 30.52,
+        "end": 30.78
+    },
+    {
+        "word": " NEVER",
+        "start": 30.78,
+        "end": 31.1
+    },
+    {
+        "word": " BECOME",
+        "start": 31.1,
+        "end": 31.46
+    },
+    {
+        "word": " A",
+        "start": 31.46,
+        "end": 31.64
+    },
+    {
+        "word": " REALITY.",
+        "start": 31.64,
+        "end": 32.22
+    },
+    {
+        "word": " I",
+        "start": 33.58,
+        "end": 34.06
+    },
+    {
+        "word": " REFUSE",
+        "start": 34.06,
+        "end": 34.66
+    },
+    {
+        "word": " TO",
+        "start": 34.66,
+        "end": 35.06
+    },
+    {
+        "word": " ACCEPT",
+        "start": 35.06,
+        "end": 35.54
+    },
+    {
+        "word": " THE",
+        "start": 35.54,
+        "end": 35.74
+    },
+    {
+        "word": " CYNICAL",
+        "start": 35.74,
+        "end": 36.16
+    },
+    {
+        "word": " NOTION",
+        "start": 36.16,
+        "end": 36.68
+    },
+    {
+        "word": " THAT",
+        "start": 36.68,
+        "end": 38.34
+    },
+    {
+        "word": " NATION",
+        "start": 38.34,
+        "end": 38.86
+    },
+    {
+        "word": " AFTER",
+        "start": 38.86,
+        "end": 39.26
+    },
+    {
+        "word": " NATION",
+        "start": 39.26,
+        "end": 39.98
+    },
+    {
+        "word": " MUST",
+        "start": 39.98,
+        "end": 40.98
+    },
+    {
+        "word": " SPIRAL",
+        "start": 40.98,
+        "end": 41.66
+    },
+    {
+        "word": " DOWN",
+        "start": 41.66,
+        "end": 42.14
+    },
+    {
+        "word": " A",
+        "start": 42.14,
+        "end": 42.6
+    },
+    {
+        "word": " MILITARISTIC",
+        "start": 42.6,
+        "end": 43.5
+    },
+    {
+        "word": " STARWING",
+        "start": 43.5,
+        "end": 44.26
+    },
+    {
+        "word": " INTO",
+        "start": 44.26,
+        "end": 45.72
+    },
+    {
+        "word": " THE",
+        "start": 45.72,
+        "end": 46.04
+    },
+    {
+        "word": " HELL",
+        "start": 46.04,
+        "end": 46.42
+    },
+    {
+        "word": " OF",
+        "start": 46.42,
+        "end": 46.74
+    },
+    {
+        "word": " NUCLEAR",
+        "start": 46.74,
+        "end": 47.2
+    },
+    {
+        "word": " ANNIHILATION.",
+        "start": 47.2,
+        "end": 48.1
+    }
+]
