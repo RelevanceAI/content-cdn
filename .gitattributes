@@ -1,3 +1,2 @@
-replicate/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
-replicate/**/*.webm filter=lfs diff=lfs merge=lfs -text
-replicate/**/*.mov filter=lfs diff=lfs merge=lfs -text
+replicate/models/andreasjansson__tile-morph/*.mp4 filter=lfs diff=lfs merge=lfs -text
+replicate/models/cuuupid__qwen2-vl-2b/example-input-1.mp4 filter=lfs diff=lfs merge=lfs -text
