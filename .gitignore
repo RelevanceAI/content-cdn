@@ -1,1 +1,4 @@
 .DS_Store
+# Prevent accidentally committing files over 100MB
+*.tar
+replicate/**/*.tar
